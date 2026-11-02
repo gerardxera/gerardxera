@@ -50,20 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerardxera&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <i>"Always learning, building, and self-hosting."</i>
-</p>
-
----
-
 ### 🔗 Contact & Connect
 
 <p align="center">
